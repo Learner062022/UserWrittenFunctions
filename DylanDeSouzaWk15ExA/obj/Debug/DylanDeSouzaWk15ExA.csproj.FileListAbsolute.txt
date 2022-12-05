@@ -1,0 +1,11 @@
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\bin\Debug\DylanDeSouzaWk15ExA.exe.config
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\bin\Debug\DylanDeSouzaWk15ExA.exe
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\bin\Debug\DylanDeSouzaWk15ExA.pdb
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\obj\Debug\DylanDeSouzaWk15ExA.csproj.AssemblyReference.cache
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\obj\Debug\DylanDeSouzaWk15ExA.csproj.SuggestedBindingRedirects.cache
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\obj\Debug\DylanDeSouzaWk15ExA.frmTilingCostEstimator.resources
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\obj\Debug\DylanDeSouzaWk15ExA.Properties.Resources.resources
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\obj\Debug\DylanDeSouzaWk15ExA.csproj.GenerateResource.cache
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\obj\Debug\DylanDeSouzaWk15ExA.csproj.CoreCompileInputs.cache
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\obj\Debug\DylanDeSouzaWk15ExA.exe
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExA\DylanDeSouzaWk15ExA\obj\Debug\DylanDeSouzaWk15ExA.pdb

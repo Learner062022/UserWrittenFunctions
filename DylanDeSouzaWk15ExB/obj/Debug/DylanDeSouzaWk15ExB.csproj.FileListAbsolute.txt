@@ -1,0 +1,12 @@
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\bin\Debug\DylanDeSouzaWk15ExB.exe.config
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\bin\Debug\DylanDeSouzaWk15ExB.exe
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\bin\Debug\DylanDeSouzaWk15ExB.pdb
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.csproj.AssemblyReference.cache
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.csproj.SuggestedBindingRedirects.cache
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.Form1.resources
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.Properties.Resources.resources
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.csproj.GenerateResource.cache
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.csproj.CoreCompileInputs.cache
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.exe
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.pdb
+C:\Users\desoud\OneDrive - TAFE\C#\DylanDeSouzaWk15ExB\DylanDeSouzaWk15ExB\obj\Debug\DylanDeSouzaWk15ExB.Form2.resources
